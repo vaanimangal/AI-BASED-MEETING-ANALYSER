@@ -13,7 +13,9 @@ https://www.pointtaker.lovable.app
 <img width="716" height="422" alt="image" src="https://github.com/user-attachments/assets/b58ea26c-dfb7-4d9d-83a5-e36095e5996a" />
 <img width="746" height="500" alt="image" src="https://github.com/user-attachments/assets/da39df3b-32ee-48a6-8ade-ff1c487e1736" />
 <img width="395" height="672" alt="image" src="https://github.com/user-attachments/assets/5358f3ca-985d-4184-9557-66398ad54e4f" />
+
 ## Tech Stack
+
 Frontend: React  
 Backend: Node.js  
 AI/NLP: Lovable API and Gemini 3 Flash
